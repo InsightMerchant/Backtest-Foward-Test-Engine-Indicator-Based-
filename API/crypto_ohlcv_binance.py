@@ -7,8 +7,8 @@ import os
 from tqdm import tqdm
 
 # Binance API credentials
-api_key = 'dcZ51K61EXUBYU7nJNQPlVFDKDfPPX5J8R7m4g8BCbDGtkiA8I747DVvgau3l6vH'
-api_secret = 'U2yn86q3xF9UCA3G4HZkoEMOnMMwxoF3o7jGsRAyWgg3GtXHs3d17piVtZsraVvS'
+api_key = ''
+api_secret = ''
 client = Client(api_key, api_secret)
 
 # Configuration
